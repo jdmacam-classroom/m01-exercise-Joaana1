@@ -1,10 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RUQKjpdt)
 # COURSE CODE - EXER CODE
-`Author`: Surname, Given Name(s) MI  
-`Section`: BSXX10XA
+`Author`: Tatlonghari, Joana Marie B.  
+`Section`: BSIT 302 A
 
 ## About
-Put here the description and general instructions of the exercise.
+Using Android Studio and Java as programming language,we are tasked to develop a trivia app, wherein
+if we click the Next Button, the next trivia will be displayed
 
 ## Files Structure
 ```
@@ -17,7 +18,7 @@ main-branch
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+The Logic
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+I've learned how to do it smoothly.
